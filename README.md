@@ -11,9 +11,9 @@ Go into the main repository and create a virtual environement:
     cd toy_sentiment_API
     virtualenv -p python3 venv
     source venv/bin/activate
-    Then install Flask and Scikit-Learn (For the machine learning)
+Then install Flask and Scikit-Learn (For the machine learning)
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Then you can launch your local server:
 
